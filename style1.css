@@ -1,0 +1,50 @@
+.rgb{
+width:100%;
+height:500px;
+background:url(images.JPEG);
+background-size:cover;
+padding:100px;}
+.g{ color:red;
+background:rgba(255,255,255,0);
+height:300px;
+width:300px;
+text-align:center;
+font-size:30px;
+font-family: Helvetica;
+line-height:300px;
+float:left;
+
+}
+.g:hover{
+color:#00FFCC;
+height:400px;
+height:400px;
+font-size:20px;}
+.s{
+color:red;
+height:300px;
+width:300px;
+background:rgba(255,255,255,0);
+font-size:30px;
+line-height:300px;
+text-align:center;
+float: left;
+
+}
+.z{ color:red;
+height:300px;
+width:300px;
+background:rgba(255,255,255,.0);
+font-size:30px;
+text-align:center;
+line-height:300px;
+float:left;}
+.m{
+color:red;
+background:rgba(255,255,255,0);
+font-size:30px;
+height:300px;
+width:300px;
+text-align:center;
+float:left;
+line-height:300px;}
